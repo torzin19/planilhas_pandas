@@ -1,0 +1,17 @@
+ID_Aluno,Nome,Turma,Nota_Matematica,Nota_Portugues,Faltas,Regiao
+101,Ana Silva,A,"8,5",9,2,Norte
+102,Bruno Santos,B,4,"5,5",12,Sul
+103,Carlos Lima,A,7,"6,5",4,Norte
+104,Daniela Oliveira,C,,7,1,Oeste
+105,Eduardo Costa,B,"9,5","8,5",0,Sul
+106,Fernanda Souza,A,6,6,5,Leste
+107,Gabriel Jesus,C,"3,5",4,15,Oeste
+108,Helena Rocha,B,8,"7,5",3,Sul
+109,Igor Gomes,A,10,"9,5",1,Norte
+110,Julia Martins,C,"5,5",6,6,Leste
+111,Kevin Pereira,A,"7,5",8,2,Norte
+112,Larissa Melo,B,,"6,5",20,Sul
+113,Mariana Alencar,C,9,"8,5",0,Oeste
+113,Mariana Alencar,C,9,"8,5",0,Oeste
+114,Pedro Rocha,A,"4,5",5,8,Leste
+115,Sofia Antunes,B,8,"7,5",3,Sul
